@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning as much as possible
+- 🤔 I’m looking for help with improving my work and working on as many projects as possible
+
 <!--
 **CallumCha/CallumCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
