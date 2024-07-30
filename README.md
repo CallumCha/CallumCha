@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a computing graduate from Bournemouth University.
+I am a computing graduate from Bournemouth University. Just trying to have fun and build some cool projects.
 
-- 🌱 I’m currently learning as much as possible
+- 🌱 I’m currently learning as much as possible in as many fields as possible
 - 🤔 I’m looking for help with improving my work and working on as many projects as possible
 
 <!--
