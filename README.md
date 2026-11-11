@@ -21,5 +21,3 @@ I’m a full-stack software engineer based in Bristol. At MMTM, I built features
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 I’m interested in mapping, game AI and the maths behind both. Away from my desk, I play indoor and beach volleyball.
-
-[Portfolio](https://callum-chard.com)
